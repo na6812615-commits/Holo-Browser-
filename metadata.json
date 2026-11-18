@@ -1,0 +1,6 @@
+{
+  "name": "Holo Browser",
+  "description": "Trình duyệt web nhanh, bảo mật với quản lý đa tab, chế độ ẩn danh, dấu trang, lịch sử duyệt web và trình quản lý tải xuống.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
